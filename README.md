@@ -32,9 +32,10 @@ Check out BinSnatcher — a companion utility that organizes .bin files from gam
 ---
 
 ## 💖 Support This Project
-If DLLSniffer helps you stay safe and organized, consider supporting its development:
 
-Buy me a coffee - [Ko-fi] https://ko-fi.com/jexidev
+If DLLSniffer helps you stay safe and organized, consider supporting its development on [Ko-fi](https://ko-fi.com/jexidev).  
+Your support fuels hardware upgrades, hosting, and future tools like SetupBuddy — every bit helps!
+
 
 ---
 
