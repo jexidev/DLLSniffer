@@ -33,6 +33,7 @@ Check out BinSnatcher — a companion utility that organizes .bin files from gam
 
 ## 💖 Support This Project
 If DLLSniffer helps you stay safe and organized, consider supporting its development:
+
 *Links Coming Soon*
 
 ---
@@ -43,5 +44,6 @@ This project is licensed under the MIT License.
 ---
 
 ## 🧠 Credits
-Created by JexiDev 
+Created by JexiDev
+
 Built with empathy, speed, and a touch of chaos.
